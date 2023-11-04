@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![SVG Title]([http://localhost:3000/generate-svg](https://node-test-svg.vercel.app/))
+![SVG Title](https://node-test-svg.vercel.app/)
 
 <!--
 **nishi240masa/nishi240masa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
