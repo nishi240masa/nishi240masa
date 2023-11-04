@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-## test
-- coment1
-- coment2
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nishi240masa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={nishi240masa}
+)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nishi240masa/nishi240masa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
