@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishi240masa)](https://github.com/anuraghazra/github-readme-stats)
-![myscore](https://tappil-web.onrender.com/api/myscore?name=west)
+[![myscore](https://tappil-web.onrender.com/api/myscore?name=west)](https://tappil-web.onrender.com/api/myscore?name=west)
 
 
 <!--
