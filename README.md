@@ -1,7 +1,6 @@
 ### Hi there 👋
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishi240masa)](https://github.com/anuraghazra/github-readme-stats)
--->
 <img src ="https://tappil-web.onrender.com/api/myscore?name=west&&"><img src ="https://tappil-web.onrender.com/api/gif?name=west&" width="220" height="200">
 
 <!--
